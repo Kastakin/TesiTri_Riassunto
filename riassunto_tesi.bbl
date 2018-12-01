@@ -1,0 +1,558 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{todd_survival_2013}{article}{}
+      \name{author}{4}{}{%
+        {{hash=c64729094dabf645718b146b92d70995}{%
+           family={Todd},
+           familyi={T\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a1236dbf3ec8692e937865d3ce4f9d9b}{%
+           family={Barr},
+           familyi={B\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod}}}%
+        {{hash=5df48ee49adad17520c9f344641c9e20}{%
+           family={Roberts},
+           familyi={R\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=07b7fd97adfc13da7c8dcf7b088a87e5}{%
+           family={Passmore},
+           familyi={P\bibinitperiod},
+           given={A.\bibnamedelimi Peter},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{506c9eb87cdc777cea728e5ba2682c51}
+      \strng{fullhash}{7022acbd6d52323b091802a2f48a7386}
+      \strng{bibnamehash}{7022acbd6d52323b091802a2f48a7386}
+      \strng{authorbibnamehash}{7022acbd6d52323b091802a2f48a7386}
+      \strng{authornamehash}{506c9eb87cdc777cea728e5ba2682c51}
+      \strng{authorfullhash}{7022acbd6d52323b091802a2f48a7386}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{{ObjectiveDementia} is an important cause of mortality and, with the ageing population and increasing prevalence of dementia, reliable data on prognosis and survival will be of interest to patients and caregivers as well as providers and commissioners of health and social care. A review of the literature was undertaken to determine the rates of survival in dementia and Alzheimer's disease ({AD}) and to identify factors that are or are not predictive of mortality in dementia and {AD}. {MethodsRelevant} articles on mortality in dementia were identified following a search of several electronic databases from 1990 to September 2012. Inclusion criteria were reports on prospective community or clinic based cohorts published in English since 1990, to reflect more recent recognition of possible predictors. {ResultsMedian} survival time from age of onset of dementia ranges from 3.3 to 11.7years, with most studies in the 7 to 10-year period. Median survival time from age of disease diagnosis ranges from 3.2 to 6.6years for dementia or {AD} cohorts as a whole. Age was consistently reported as a predictor of mortality, with male gender a less consistent predictor. Increased disease severity and functional impairment were often associated with mortality. {ConclusionsSubstantial} heterogeneity in the design of included studies limits the ability to prognosticate for individual patients. However, it is clear that dementia and {AD} are associated with significant mortality. Reasons for the increased mortality are not established. Copyright (c) 2013 John Wiley \& Sons, Ltd.}
+      \field{issn}{0885-6230}
+      \field{journaltitle}{International Journal of Geriatric Psychiatry}
+      \field{month}{11}
+      \field{note}{{WOS}:000325368600002}
+      \field{number}{11}
+      \field{shortjournal}{Int. J. Geriatr. Psychiatr.}
+      \field{shorttitle}{Survival in dementia and predictors of mortality}
+      \field{title}{Survival in dementia and predictors of mortality: a review}
+      \field{volume}{28}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{pages}{1109\bibrangedash 1124}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1002/gps.3946
+      \endverb
+      \keyw{14-year follow-up,Alzheimer's disease,blood-pressure,dementia,early alzheimers-disease,frontotemporal dementia,mild cognitive impairment,mortality,multiinfarct dementia,natural-history,population-based cohort,survival,united-states,vascular dementias}
+    \endentry
+    \entry{noauthor_world_2018}{online}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labeltitlesource}{title}
+      \field{day}{20}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{title}{World Alzheimer Report 2018 {|} Alzheimer's Disease International}
+      \field{urlday}{1}
+      \field{urlmonth}{11}
+      \field{urlyear}{2018}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/home/lorenzo/Zotero/storage/6ZYPKZWR/world-report-2018.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.alz.co.uk/research/world-report-2018
+      \endverb
+      \verb{url}
+      \verb https://www.alz.co.uk/research/world-report-2018
+      \endverb
+    \endentry
+    \entry{goedert_century_2006}{article}{}
+      \name{author}{2}{}{%
+        {{hash=734f141a42f26e833501a49ff529e73a}{%
+           family={Goedert},
+           familyi={G\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9dc94771899bc5df611e7c991dd361b3}{%
+           family={Spillantini},
+           familyi={S\bibinitperiod},
+           given={Maria\bibnamedelima Grazia},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{32f5d98bee713c18fa0b5ee38fd8c5bd}
+      \strng{fullhash}{32f5d98bee713c18fa0b5ee38fd8c5bd}
+      \strng{bibnamehash}{32f5d98bee713c18fa0b5ee38fd8c5bd}
+      \strng{authorbibnamehash}{32f5d98bee713c18fa0b5ee38fd8c5bd}
+      \strng{authornamehash}{32f5d98bee713c18fa0b5ee38fd8c5bd}
+      \strng{authorfullhash}{32f5d98bee713c18fa0b5ee38fd8c5bd}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{3}
+      \field{issn}{0036-8075}
+      \field{journaltitle}{Science}
+      \field{month}{11}
+      \field{note}{{WOS}:000241729800034}
+      \field{number}{5800}
+      \field{shortjournal}{Science}
+      \field{title}{A century of Alzheimer's disease}
+      \field{volume}{314}
+      \field{year}{2006}
+      \field{dateera}{ce}
+      \field{pages}{777\bibrangedash 781}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1126/science.1132814
+      \endverb
+      \verb{file}
+      \verb Submitted Version:/home/lorenzo/Zotero/storage/BBB4PWFR/Goedert e Spillantini - 2006 - A century of Alzheimer's disease.pdf:application/pdf
+      \endverb
+      \keyw{frontotemporal dementia,amyloid precursor protein,beta-protein,hereditary cerebral-hemorrhage,mild cognitive impairment,neurofibrillary tangles,paired helical filaments,progressive supranuclear palsy,tau gene,transgenic mice}
+    \endentry
+    \entry{brothers_physiological_2018}{article}{}
+      \name{author}{3}{}{%
+        {{hash=01233ec303a5522d5c2f3d7568e419cc}{%
+           family={Brothers},
+           familyi={B\bibinitperiod},
+           given={Holly\bibnamedelima M.},
+           giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=222915c8e87990b8ee8a4b0ee4879cf4}{%
+           family={Gosztyla},
+           familyi={G\bibinitperiod},
+           given={Maya\bibnamedelima L.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=ef0c05f9af1fb772c5e9cc739fa64d53}{%
+           family={Robinson},
+           familyi={R\bibinitperiod},
+           given={Stephen\bibnamedelima R.},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{078fef04181566d65b77b81331c1fabd}
+      \strng{fullhash}{161e07a4d4841f4c6c3e91f032807642}
+      \strng{bibnamehash}{161e07a4d4841f4c6c3e91f032807642}
+      \strng{authorbibnamehash}{161e07a4d4841f4c6c3e91f032807642}
+      \strng{authornamehash}{078fef04181566d65b77b81331c1fabd}
+      \strng{authorfullhash}{161e07a4d4841f4c6c3e91f032807642}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Amyloid-beta (A beta) is best known as the misfolded peptide that is involved in the pathogenesis of Alzheimer's disease ({AD}), and it is currently the primary therapeutic target in attempts to arrest the course of this disease. This notoriety has overshadowed evidence that A beta serves several important physiological functions. A beta is present throughout the lifespan, it has been found in all vertebrates examined thus far, and its molecular sequence shows a high degree of conservation. These features are typical of a factor that contributes significantly to biological fitness, and this suggestion has been supported by evidence of functions that are beneficial for the brain. The putative roles of A beta include protecting the body from infections, repairing leaks in the blood-brain barrier, promoting recovery from injury, and regulating synaptic function. Evidence for these beneficial roles comes from in vitro and in vivo studies, which have shown that the cellular production of A beta rapidly increases in response to a physiological challenge and often diminishes upon recovery. These roles are further supported by the adverse outcomes of clinical trials that have attempted to deplete A beta in order to treat {AD}. We suggest that anti-A beta therapies will produce fewer adverse effects if the known triggers of A beta deposition (e.g., pathogens, hypertension, and diabetes) are addressed first.}
+      \field{day}{25}
+      \field{issn}{1663-4365}
+      \field{journaltitle}{Frontiers in Aging Neuroscience}
+      \field{month}{4}
+      \field{note}{{WOS}:000430859600001}
+      \field{shortjournal}{Front. Aging Neurosci.}
+      \field{title}{The Physiological Roles of Amyloid-beta Peptide Hint at New Ways to Treat Alzheimer's Disease}
+      \field{volume}{10}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{pages}{118}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3389/fnagi.2018.00118
+      \endverb
+      \verb{file}
+      \verb Full Text:/home/lorenzo/Zotero/storage/J9LLJ5TG/Brothers et al. - 2018 - The Physiological Roles of Amyloid-beta Peptide Hi.pdf:application/pdf
+      \endverb
+      \keyw{a-beta,antimicrobial,aria,cancer,central-nervous-system,cerebrovascular,controlled cortical impact,gamma-secretase inhibitor,herpes-simplex virus-1,immune system,infection,long-term survivors,multiple-sclerosis lesions,seizure,severe head-injury,transgenic mouse models,traumatic brain-injury,traumatic injury}
+    \endentry
+    \entry{kumar_review_2015}{article}{}
+      \name{author}{3}{}{%
+        {{hash=5fdbaebe436e69131defd0c3607040af}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Anil},
+           giveni={A\bibinitperiod}}}%
+        {{hash=bd582f0d9af445897a10abc74736346b}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Arti},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7093b1db641e19c7e660871575b396ff}{%
+           family={Ekavali},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{8a6d5e7123361554d9533a8f3d16da72}
+      \strng{fullhash}{0105d6c6fe0c15d2fd64ec6a37fda991}
+      \strng{bibnamehash}{0105d6c6fe0c15d2fd64ec6a37fda991}
+      \strng{authorbibnamehash}{0105d6c6fe0c15d2fd64ec6a37fda991}
+      \strng{authornamehash}{8a6d5e7123361554d9533a8f3d16da72}
+      \strng{authorfullhash}{0105d6c6fe0c15d2fd64ec6a37fda991}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Alzheimer's disease acknowledged as progressive multifarious neurodegenerative disorder, is the leading cause of dementia in late adult life. Pathologically it is characterized by intracellular nenrofibrillary tangles and extracellular amyloidal protein deposits contributing to senile plaques. Over the last two decades, advances in the field of pathogenesis have inspired the researchers for the investigation of novel pharmacological therapeutics centered more towards the pathophysiological events of the disease. Currently available treatments i.e. acetylcholinesterase inhibitors (rivastigmine, galantamine, donepezil) and N-methyl D-aspartate receptor antagonist (memantine) contribute minimal impact on the disease and target late aspects of the disease. These drugs decelerate the progression of the disease, provide symptomatic relief but fail to achieve a definite cure. While the neuropathological features of Alzheimer's disease are recognized but the intricacies of the mechanism have not been clearly defined. This lack of understanding regarding the pathogenic process may be the likely reason for the non-availability of effective treatment which can prevent onset and progression of the disease. Owing to the important progress in the field of pathophysiology in the last couple of years, new therapeutic targets are available that should render the underlying disease process to be tackled directly. In this review, authors will discusses the different aspects of pathophysiological mechanisms behind Alzheimer's disease and its management through conventional drug therapy, including modern investigational therapeutic strategies, recently completed and ongoing. (C) 2014 Institute of Pharmacology, Polish Academy of Sciences. Published by Elsevier Urban \& Partner Sp. z o.o. All rights reserved.}
+      \field{issn}{1734-1140}
+      \field{journaltitle}{Pharmacological Reports}
+      \field{month}{4}
+      \field{note}{{WOS}:000350611900004}
+      \field{number}{2}
+      \field{shortjournal}{Pharmacol. Rep.}
+      \field{shorttitle}{A review on Alzheimer's disease pathophysiology and its management}
+      \field{title}{A review on Alzheimer's disease pathophysiology and its management: an update}
+      \field{volume}{67}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{pages}{195\bibrangedash 203}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1016/j.pharep.2014.09.004
+      \endverb
+      \keyw{Alzheimer's disease,a-beta,Acetylcholinesterase inhibitors,amyloid-beta peptide,Beta amyloid,biochemical pathways,cholinergic system,cognitive deficits,methylene-blue,mouse model,N-methyl D-aspartate receptor antagonist,Neurofibrillary tangles,neuronal nitric-oxide,oxidative stress,receptor antagonists}
+    \endentry
+    \entry{jabir_cholinesterase_2018}{article}{}
+      \name{author}{3}{}{%
+        {{hash=3df059cb0680da690d775d1c4fd434d4}{%
+           family={Jabir},
+           familyi={J\bibinitperiod},
+           given={Nasimudeen\bibnamedelima R.},
+           giveni={N\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=7313c676c3caa34a0ec3d140292a65ee}{%
+           family={Khan},
+           familyi={K\bibinitperiod},
+           given={Fayaz\bibnamedelima Rahman},
+           giveni={F\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=41c0c50f143174745c4696226f84072f}{%
+           family={Tabrez},
+           familyi={T\bibinitperiod},
+           given={Shams},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{8d147976aaa20aed1cd39d5b95326a3e}
+      \strng{fullhash}{8d1063ca9dade020cdb529f8cf04bfae}
+      \strng{bibnamehash}{8d1063ca9dade020cdb529f8cf04bfae}
+      \strng{authorbibnamehash}{8d1063ca9dade020cdb529f8cf04bfae}
+      \strng{authornamehash}{8d147976aaa20aed1cd39d5b95326a3e}
+      \strng{authorfullhash}{8d1063ca9dade020cdb529f8cf04bfae}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Alzheimer’s disease ({AD}) is a progressive irreversible neurodegenerative disorder characterized by excessive deposition of β-amyloid (Aβ) oligomers, and neurofibrillary tangles ({NFTs}), comprising of hyperphosphorylated tau proteins. The cholinergic system has been suggested as the earliest and most affected molecular mechanism that describes {AD} pathophysiology. Moreover, cholinesterase inhibitors ({ChEIs}) are the potential class of drugs that can amplify cholinergic activity to improve cognition and global performance and reduce psychiatric and behavioral disturbances. Approximately, 60\%-80\% of all cases of dementia in the world are patients with {AD}. In view of the continuous rise of this disease especially in the aged population, there is a dire need to come up with a novel compound and/or mixture that could work against this devastating disease. In this regard, the best is to rely on natural compounds rather than synthetic ones, because natural compounds are easily available, cost-effective, and comparatively less toxic. To serve this purpose, lately, scientific community has started exploring the possibility of using different polyphenols either solitary or in combination that can serve as therapeutics against {AD}. In the current article, we have summarized the role of various polyphenols, namely quercetin, resveratrol, curcumin, gallocatechins, cinnamic acid, caffeine, and caffeic acid as an inhibitor of cholinesterase for the treatment of {AD}. We have also tried to uncover the mechanistic insight on the action of these polyphenols against {AD} pathogenicity.}
+      \field{day}{1}
+      \field{issn}{1755-5949}
+      \field{journaltitle}{{CNS} Neuroscience \& Therapeutics}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{number}{9}
+      \field{shorttitle}{Cholinesterase targeting by polyphenols}
+      \field{title}{Cholinesterase targeting by polyphenols: A therapeutic approach for the treatment of Alzheimer’s disease}
+      \field{urlday}{31}
+      \field{urlmonth}{10}
+      \field{urlyear}{2018}
+      \field{volume}{24}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{753\bibrangedash 762}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1111/cns.12971
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/home/lorenzo/Zotero/storage/6B3CYUFZ/Jabir et al. - 2018 - Cholinesterase targeting by polyphenols A therape.pdf:application/pdf;Snapshot:/home/lorenzo/Zotero/storage/6TVT76DJ/cns.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://onlinelibrary.wiley.com/doi/abs/10.1111/cns.12971
+      \endverb
+      \verb{url}
+      \verb http://onlinelibrary.wiley.com/doi/abs/10.1111/cns.12971
+      \endverb
+      \keyw{Alzheimer’s disease,cholinesterase,curcumin,gallocatechins,polyphenols,resveratrol}
+    \endentry
+    \entry{martinez_extremely_2015}{article}{}
+      \name{author}{4}{}{%
+        {{hash=03c62d58c922e0ef434b6e2bfd35b858}{%
+           family={Martínez},
+           familyi={M\bibinitperiod},
+           given={Alejandro\bibnamedelima V.},
+           giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=0e791a231731981a1a0faf392188ea3f}{%
+           family={Leal-Duaso},
+           familyi={L\bibinithyphendelim D\bibinitperiod},
+           given={Alejandro},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e4d41a40de5f5f8db25c674f9e23ce22}{%
+           family={García},
+           familyi={G\bibinitperiod},
+           given={José\bibnamedelima I.},
+           giveni={J\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=0cba1067d281c64681a4d5f8f22c42d9}{%
+           family={Mayoral},
+           familyi={M\bibinitperiod},
+           given={José\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{29b1c83d05bd848bea3b4a455dde29d2}
+      \strng{fullhash}{3cfe7f705785115a91631a6e32a2f516}
+      \strng{bibnamehash}{3cfe7f705785115a91631a6e32a2f516}
+      \strng{authorbibnamehash}{3cfe7f705785115a91631a6e32a2f516}
+      \strng{authornamehash}{29b1c83d05bd848bea3b4a455dde29d2}
+      \strng{authorfullhash}{3cfe7f705785115a91631a6e32a2f516}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Palladium nanoparticles supported on {LAPONITE}®, a synthetic clay, are shown to constitute a highly robust and stable catalytic system for Heck–Mizoroki reactions carried out under solventless conditions. Both the preparation and the use of the catalyst are straightforward, allowing easy separation of the reaction products in pure form. In the case of the reaction between butyl acrylate and iodobenzene, up to 50 catalyst cycles can be performed before observing a noticeable decrease in activity. After reactivation of the catalyst by calcination, it can be further used for at least an additional 25 reactions. The stability of the catalyst seems to be related to the electronic density of the reacting alkene, as illustrated by the results obtained using the same catalyst with other alkenes.}
+      \field{day}{10}
+      \field{issn}{2046-2069}
+      \field{journaltitle}{{RSC} Advances}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{number}{74}
+      \field{shortjournal}{{RSC} Adv.}
+      \field{title}{An extremely highly recoverable clay-supported Pd nanoparticle catalyst for solvent-free Heck–Mizoroki reactions}
+      \field{urlday}{14}
+      \field{urlmonth}{11}
+      \field{urlyear}{2018}
+      \field{volume}{5}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{59983\bibrangedash 59990}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1039/C5RA10191C
+      \endverb
+      \verb{file}
+      \verb Snapshot:/home/lorenzo/Zotero/storage/XQNXJJCU/C5RA10191C.html:text/html;Submitted Version:/home/lorenzo/Zotero/storage/DLNJNZC3/Martínez et al. - 2015 - An extremely highly recoverable clay-supported Pd .pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://pubs.rsc.org/en/content/articlelanding/2015/ra/c5ra10191c
+      \endverb
+      \verb{url}
+      \verb https://pubs.rsc.org/en/content/articlelanding/2015/ra/c5ra10191c
+      \endverb
+    \endentry
+    \entry{alejandro_v._martinez_expedient_2017}{article}{}
+      \name{author}{3}{}{%
+        {{hash=307a8a2891864ea3c655a485326adb91}{%
+           family={{Alejandro V. Martínez}},
+           familyi={A\bibinitperiod}}}%
+        {{hash=315e7baaf14be70fa820936a8d7488eb}{%
+           family={{José A. Mayoral}},
+           familyi={J\bibinitperiod}}}%
+        {{hash=a510cea1518fad12e043d2a4a404fcc0}{%
+           family={{José I. García}},
+           familyi={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{62c78733928a2077cb2d24fccdf6d313}
+      \strng{fullhash}{88ccdf1e3acab67e8a6ebb88756e36e2}
+      \strng{bibnamehash}{88ccdf1e3acab67e8a6ebb88756e36e2}
+      \strng{authorbibnamehash}{88ccdf1e3acab67e8a6ebb88756e36e2}
+      \strng{authornamehash}{62c78733928a2077cb2d24fccdf6d313}
+      \strng{authorfullhash}{88ccdf1e3acab67e8a6ebb88756e36e2}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A straightforward two-step synthesis of resveratrol is described, with total isolated yields in the range of 75–80\%. The key synthetic step, a Heck–Mi…}
+      \field{day}{21}
+      \field{issn}{0040-4020}
+      \field{journaltitle}{Tetrahedron}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{number}{38}
+      \field{title}{An expedient synthesis of resveratrol through a highly recoverable palladium catalyst}
+      \field{urlday}{31}
+      \field{urlmonth}{10}
+      \field{urlyear}{2018}
+      \field{volume}{73}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{5581\bibrangedash 5584}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1016/j.tet.2016.08.074
+      \endverb
+      \verb{file}
+      \verb 2017 - An expedient synthesis of resveratrol through a hi.pdf:/home/lorenzo/Zotero/storage/S6B8AWLX/2017 - An expedient synthesis of resveratrol through a hi.pdf:application/pdf;Snapshot:/home/lorenzo/Zotero/storage/6XM24WFB/S0040402016308699.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://www.sciencedirect.com/science/article/pii/S0040402016308699
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0040402016308699
+      \endverb
+    \endentry
+    \entry{jun_yan_design_2017}{article}{}
+      \name{author}{6}{}{%
+        {{hash=1f15a7f17ca3026ca6387071c38a651f}{%
+           family={{Jun Yan}},
+           familyi={J\bibinitperiod}}}%
+        {{hash=c5200146fa7fd74b5fcc6925b79e430d}{%
+           family={{Jinhui Hu}},
+           familyi={J\bibinitperiod}}}%
+        {{hash=2f7a2cf67c5a11d6c56e98a69945ee94}{%
+           family={{Anqiu Liu}},
+           familyi={A\bibinitperiod}}}%
+        {{hash=02f43ee21c848bce66ed0792b80eec46}{%
+           family={{Lin He}},
+           familyi={L\bibinitperiod}}}%
+        {{hash=ac70efea6c170b52086ecb7ca1eae30d}{%
+           family={{Xingshu Li}},
+           familyi={X\bibinitperiod}}}%
+        {{hash=37637e533b17f0eb91cdcd5f0092162a}{%
+           family={{Hui Wei}},
+           familyi={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{1bc2996735285002e3ba69251bc438f8}
+      \strng{fullhash}{d4851c274c9849abcb2d03565be73c46}
+      \strng{bibnamehash}{d4851c274c9849abcb2d03565be73c46}
+      \strng{authorbibnamehash}{d4851c274c9849abcb2d03565be73c46}
+      \strng{authornamehash}{1bc2996735285002e3ba69251bc438f8}
+      \strng{authorfullhash}{d4851c274c9849abcb2d03565be73c46}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{By fusing donepezil and curcumin, a novel series of compounds were obtained as multitarget-directed ligands against Alzheimer’s disease. Among them, c…}
+      \field{day}{15}
+      \field{issn}{0968-0896}
+      \field{journaltitle}{Bioorganic \& Medicinal Chemistry}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{number}{12}
+      \field{title}{Design, synthesis, and evaluation of multitarget-directed ligands against Alzheimer’s disease based on the fusion of donepezil and curcumin}
+      \field{urlday}{31}
+      \field{urlmonth}{10}
+      \field{urlyear}{2018}
+      \field{volume}{25}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{2946\bibrangedash 2955}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.bmc.2017.02.048
+      \endverb
+      \verb{file}
+      \verb 2017 - Design, synthesis, and evaluation of multitarget-d.pdf:/home/lorenzo/Zotero/storage/74VCFJ9H/2017 - Design, synthesis, and evaluation of multitarget-d.pdf:application/pdf;Snapshot:/home/lorenzo/Zotero/storage/N48EECT8/S0968089616315334.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://www.sciencedirect.com/science/article/pii/S0968089616315334
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0968089616315334
+      \endverb
+    \endentry
+    \entry{ji_strategic_2017}{article}{}
+      \name{author}{8}{}{%
+        {{hash=07eac2fe3d68c2420c4466e77404eab2}{%
+           family={Ji},
+           familyi={J\bibinitperiod},
+           given={Yonghwan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=e5b326c45d7fdb6682ced098870c94be}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Hyuck\bibnamedelima Jin},
+           giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=5a25a6efc80704d566f6e74f2542b9c3}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Minjeong},
+           giveni={M\bibinitperiod}}}%
+        {{hash=346a9aa4a36f90ccfa8b928899138915}{%
+           family={Nam},
+           familyi={N\bibinitperiod},
+           given={Geewoo},
+           giveni={G\bibinitperiod}}}%
+        {{hash=89649b71a0b281e4412f14757f36f5cd}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Shin\bibnamedelimb Jung\bibnamedelima C.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=09cdbc37d8161ff15cfe63952056a9ec}{%
+           family={Cho},
+           familyi={C\bibinitperiod},
+           given={Jaeheung},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c1150d40f5bfb74475a0099419631ade}{%
+           family={Park},
+           familyi={P\bibinitperiod},
+           given={Cheol-Min},
+           giveni={C\bibinithyphendelim M\bibinitperiod}}}%
+        {{hash=01e12d50e83d4fb5d7fb8bd53395f0df}{%
+           family={Lim},
+           familyi={L\bibinitperiod},
+           given={Mi\bibnamedelima Hee},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{6bfe1c19e05f1511cc4a708541f35d28}
+      \strng{fullhash}{7b51a156f81f21b902b8b9cb235a31af}
+      \strng{bibnamehash}{7b51a156f81f21b902b8b9cb235a31af}
+      \strng{authorbibnamehash}{7b51a156f81f21b902b8b9cb235a31af}
+      \strng{authornamehash}{6bfe1c19e05f1511cc4a708541f35d28}
+      \strng{authorfullhash}{7b51a156f81f21b902b8b9cb235a31af}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{5}
+      \field{issn}{0020-1669, 1520-510X}
+      \field{journaltitle}{Inorganic Chemistry}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{number}{11}
+      \field{title}{Strategic Design of 2,2′-Bipyridine Derivatives to Modulate Metal–Amyloid-β Aggregation}
+      \field{urlday}{5}
+      \field{urlmonth}{11}
+      \field{urlyear}{2018}
+      \field{volume}{56}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{6695\bibrangedash 6705}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1021/acs.inorgchem.7b00782
+      \endverb
+      \verb{file}
+      \verb Ji et al. - 2017 - Strategic Design of 2,2′-Bipyridine Derivatives to.pdf:/home/lorenzo/Zotero/storage/WFX596AX/Ji et al. - 2017 - Strategic Design of 2,2′-Bipyridine Derivatives to.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://pubs.acs.org/doi/10.1021/acs.inorgchem.7b00782
+      \endverb
+      \verb{url}
+      \verb http://pubs.acs.org/doi/10.1021/acs.inorgchem.7b00782
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
