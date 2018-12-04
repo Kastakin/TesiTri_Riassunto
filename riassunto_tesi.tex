@@ -12,6 +12,22 @@
 \usepackage[margin=0.5in]{geometry}
 \usepackage{titling}
 
+\renewbibmacro*{journal}{%
+	\iffieldundef{shortjournal}
+	{%
+		\iffieldundef{journaltitle}
+		{}
+		{%
+			\printtext[journaltitle]
+			{%
+				\printfield[titlecase]{journaltitle}%
+				\setunit{\subtitlepunct}%
+				\printfield[titlecase]{journalsubtitle}%
+			}%
+		}%
+	}
+	{\printtext[journaltitle]{\printfield[titlecase]{shortjournal}}}%
+}
 
 
 \bibliography{biblio.bib}
@@ -27,7 +43,7 @@
 	\and
 	{\small Candidato: Lorenzo Castellino
 	}}
-\date{{\small Anno Accademico 2018-2019}}
+\date{{\small Anno Accademico 2017-2018}}
 
 \begin{document}
 
@@ -40,7 +56,7 @@ La malattia di Alzheimer-Perusini, nota più comunemente come morbo d'Alzheimer 
 
 \subsection{L'Importanza della Ricerca}
 L'incidenza dell'AD è in aumento; stando al World Alzheimer Report del 2018, stilato dall'Alzheimer's Disease International ovvero l'associazione internazionale per la lotta all'Alzheimer in stretta collaborazione con la World Health Organization, si stima che nel mondo circa 50 milioni di persone siano affette da demenza. Ciò si traduce in una spesa annua per il trattamento dei malati che rasenta il miliardo di dollari. Per il 2050 si prospetta un numero di casi triplo per una spesa annua doppia rispetto ad oggi. \cite{noauthor_world_2018}
-L'individuazione delle cause che portano al presentarsi dell'AD è uno dei punti salienti della ricerca in campo medico e biochimico e molte sono state le ipotesi portate avanti a riguardo. Al momento una delle tesi più avvalorate e studiate è quella della formazione di aggregati proteici nel liquido cerebrospinale.
+L'individuazione delle cause che portano al presentarsi dell'AD è uno dei punti salienti della ricerca in campo medico e biochimico e molte sono state le ipotesi portate avanti al riguardo. Al momento una delle tesi più avvalorate e studiate è quella della formazione di aggregati proteici nel liquido cerebrospinale.
 
 \subsection{$\beta$-Amiloidi e Placche Amiloidiche}
 Con il termine $\beta$-amiloide (A$\beta$) si indica un frammento proteico insolubile non ramificato.
@@ -71,7 +87,7 @@ Il Resveratrolo è un polifenolo presente in molte piante, in particolare nella 
 La molecola pur essendo presente in natura in quantità apprezzabili in una grande varietà di piante non è fruibile al punto da coprire la domanda che le applicazioni in campo medico e di ricerca richiedono. Risulta quindi chiara l'importanza di un metodo di sintesi dai bassi costi e facilmente realizzabile.
 
 Uno dei metodi più semplici ed efficaci per sintetizzare la molecola di Resveratrolo può essere realizzato mediante un accoppiamento di Heck-Mizoroki, ovvero attraverso un processo catalitico a base di Palladio.
-Nel caso del Resveratrolo la sintesi a partire da reagenti commerciali (rappresentata in Figura \ref{fig:totale_resveratrolo}) è composta di due passaggi sintetici. I reagenti di partenza utilizzati per l'accoppiamento sono lo 1-iodio-3,5-dimetossibenzene ed il 4-metossistirene. Il catalizzatore impiegato è un catalizzatore di palladio nanoparticellare disperso su di un supporto di argilla laponite ottenuto per riduzione di \ce{H2PdCl4} in presenza di polivinilpirrolidone (PVP). \cite{martinez_extremely_2015}
+Nel caso del Resveratrolo la sintesi a partire da reagenti commerciali (rappresentata in Figura \ref{fig:totale_resveratrolo}) è composta di due passaggi sintetici. I reagenti di partenza utilizzati per l'accoppiamento sono lo 1-iodo-3,5-dimetossibenzene ed il 4-metossistirene. Il catalizzatore impiegato è un catalizzatore di palladio nanoparticellare disperso su di un supporto di argilla laponite ottenuto per riduzione di \ce{H2PdCl4} in presenza di polivinilpirrolidone (PVP). \cite{martinez_extremely_2015}
 I vantaggi di tale catalizzatore sono l'alta capacità di utilizzo e rigenerazione oltre ad una bassissima quantità di Palladio residuo nei prodotti finali.
 
 In seguito all'accoppiamento, per ottenere la molecola di Resveratrolo si effettua una rimozione della protezione metilica trattando il prodotto della reazione d'accoppiamento con una base di Lewis. \cite{alejandro_v._martinez_expedient_2017}
@@ -86,7 +102,7 @@ In seguito all'accoppiamento, per ottenere la molecola di Resveratrolo si effett
 Il Resveratrolo funge da inibitore dell'Acetilcolinesterasi, in particolare l'inibizione è promossa da alcuni suoi tetrameri (Vitisina A e Heyneanol A). L'efficacia e la selettività per i due oligomeri è stata valutata tramite un biotest HPLC restituendo ottimi risultati. In cellule PC12 sono state valutate anche la diminuzione della mortalità cellulare per apoptosi e una diminuzione di specie ROI.
 
 \section{Curcumina}
-La Curcumina è la principale componente polifenolica del Cumino; tale molecola è impiegata nel trattamento di molteplici malattia umane già da migliaia di anni, le prime applicaizoni risalgono alla antica medicina cinese.  L'azione della molecola nei confronti dell'AD è attribuibile ad una mitigazione all'aggregazione dei A$\beta$ e all'inibizione dell'enzima AChE. Il principale vantaggio derivante dall'uso della Curcumina come punto di partenza per lo sviluppo di un farmaco per l'AD è la sua innata permeabilità della barreira emato-encefalica. Mi sono soffermato in questa sezione sulla sintesi di composti ottenuti dalla fusione dei farmacofori della Curcumina e del Donepezil, farmaco la cui azione è mirata alla modulazione dell'enzima AChE.
+La Curcumina è la principale componente polifenolica del Cumino; tale molecola è impiegata nel trattamento di molteplici malattia umane già da migliaia di anni, le prime applicazioni risalgono alla antica medicina cinese.  L'azione della molecola nei confronti dell'AD è attribuibile ad una mitigazione all'aggregazione dei A$\beta$ e all'inibizione dell'enzima AChE. Il principale vantaggio derivante dall'uso della Curcumina come punto di partenza per lo sviluppo di un farmaco per l'AD è la sua innata permeabilità della barriera emato-encefalica. Mi sono soffermato in questa sezione sulla sintesi di composti ottenuti dall'accoppiamento dei farmacofori della Curcumina e del Donepezil, farmaco la cui azione è mirata alla modulazione dell'enzima AChE.
 
 Sono state selezionate due serie di composti da sintetizzare la cui sostanziale differenza risiede nella diversa geometria con cui i due farmacofori sono fusi assieme; gli scheletri molecolari su cui sono state inserite diverse modificazioni sono riportati in Figura \ref{fig:generale_curcdone}.
 \begin{figure}[H]
@@ -96,20 +112,20 @@ Sono state selezionate due serie di composti da sintetizzare la cui sostanziale 
 	\label{fig:generale_curcdone}
 \end{figure}
 
-Il processo di sintesi prevede, a partire da reagenti commerciali, la sintesi dei due farmacofori desiderati tra di loro accoppiati attraverso reazioni di condensazione. Le molecole sono state differenziate tra loro inserendo in fase di sintesi sostituenti differenti per valutare quale funzionalità possano comportare un miglioramento dell'azione sull'organismo.
+Il processo di sintesi prevede, a partire da reagenti commerciali, la sintesi dei due farmacofori desiderati tra loro accoppiati attraverso reazioni di condensazione. Le molecole sono state differenziate tra loro inserendo in fase di sintesi sostituenti differenti per valutare quali funzionalità possano comportare un miglioramento dell'azione sull'organismo.
 
 Al fine di valutare gli effetti dei prodotti ottenuti sono stati condotti test circa l'attività d'inibizione e la selettività per l'enzima AChE. Inoltre sono stati considerati fattori come la permeabilità della barriera emato-encefalica, diminuzione della concentrazione delle specie ROI e mitigazione dell'aggregazione dei A$\beta$.
 
-I risultati hanno evidenziato una migliore azione nei confronti della malattia per i composti appartenenti alla seconda serie di composti (sempre con riferimento alla Figura \ref{fig:generale_curcdone}), in particolare la presenza sulla molecola di sostituenti idrossilici uniti ad un basso ingombro sterico sono risultati fattori fondamentali per massimizzare l'azione dal punto di vista famracologico. \cite{jun_yan_design_2017}
+I risultati hanno evidenziato una migliore azione nei confronti della malattia per i composti appartenenti alla seconda serie di composti (sempre con riferimento alla Figura \ref{fig:generale_curcdone}), in particolare la presenza sulla molecola di sostituenti idrossilici uniti ad un basso ingombro sterico sono risultati fattori fondamentali per massimizzare l'azione dal punto di vista farmacologico. \cite{jun_yan_design_2017}
 
 \section{Leganti Bipiridinici}
-L'ultima classe di composti investigata è quella dei bipiridinici. I composti bipiridinici presentano una buona capacità chelante rispetto agli ioni metallici liberi, la loro azione farmacologica è quindi quella di cercare di limitare l'aggregazione amiloidica diminuendo la quantità di centri di nucleazione per i A$\beta$. Inoltre questa classe di composti presenta una buona permeabilità della barriera emato-encefalica, una buona solubilità in ambiente acquoso e una cinetica di complessazione ne confronti dei metalli veloce; tutti fattori che candidano a tutti gli effetti le bipiridine ad un ottimo cheletro molecolare di partenza per un processo di sintesi razionale.
+L'ultima classe di composti studiata è quella dei bipiridinici. I composti bipiridinici presentano una buona capacità chelante rispetto agli ioni metallici liberi, la loro azione farmacologica è quindi quella di cercare di limitare l'aggregazione amiloidica diminuendo la quantità di centri di nucleazione per i A$\beta$. Inoltre questa classe di composti presenta una buona permeabilità della barriera emato-encefalica, una buona solubilità in ambiente acquoso e un'alta cinetica di complessazione nei confronti dei metalli; tutti fattori che candidano le bipiridine come ottimi precursori di agenti per la cura dell'AD.
 
-La sintesi razionale si prefigge lo scopo di poter ottenere molecole con le proprietà farmacologiche desiderate inserendo sulle molecole sostituenti che si suppone siano in grado di avere effetto sul substrato voluto.
+La sintesi si prefigge lo scopo di poter ottenere molecole con le proprietà farmacologiche desiderate inserendo sulle molecole sostituenti che si suppone siano in grado di avere effetto sul substrato voluto.
 
-In questo caso particolare le funzione inserite sui due anelli piridinici sono state un gruppo metilico per migliorare l'effetto di chelazione metallica e un gruppo dimetilamminico per la sua affinità verso i frammenti A$\beta$. Le stesse funzionalità sono state inserite in posizioni differenti in modo da ottenere prodotti finali isolabili tra loro diversi strutturalmente, ciò ha permesso uno studio di quale dei diversi isomeri di struttura potesse migliore da un punto di vista dell'effetto in quanto farmaco.
+In questo caso particolare le funzioni inserite sui due anelli piridinici sono state un gruppo metilico per migliorare l'effetto di chelazione metallica e un gruppo dimetilamminico per la sua affinità verso i frammenti A$\beta$. Le stesse funzionalità sono state inserite in posizioni differenti in modo da ottenere prodotti finali tra loro diversi strutturalmente, ciò ha permesso uno studio di quale dei diversi isomeri di struttura potesse migliore da un punto di vista dell'effetto in quanto farmaco.
 
-La sintesi (presentata in maniera schematica in Figura \ref{fig:rea_g}) viene portata a termine per mezzo di un accoppimento di Stille; la reazione Palladio catalizzata permette la formazione di un nuovo legame carbonio-carbonio tra il composto organostannano ottenuto dalla 4-dimetilamminopiridina e l'appropriata piridina bromurata.
+La sintesi (presentata in maniera schematica in Figura \ref{fig:rea_g}) viene portata a termine per mezzo di un accoppiamento di Stille; la reazione Palladio catalizzata permette la formazione di un nuovo legame carbonio-carbonio tra l'organostannano ottenuto dalla 4-dimetilamminopiridina e l'appropriata piridina bromurata.
 
 \begin{figure}[H]
 	\centering
@@ -121,7 +137,7 @@ La sintesi (presentata in maniera schematica in Figura \ref{fig:rea_g}) viene po
 L'efficacia dei composti sintetizzati è stata valutata mediante test in vitro. In assenza di metalli le bipiridine non hanno mostrato particolari effetti positivi nei confronti della formazione delle placche proteiche; in presenza di ioni metallici l'effetto di chelazione si è dimostrato efficace mitigando in maniera significativa la formazione di cumuli amiloidici. Malgrado la positiva azione nei confronti dei fenomeni di aggregazione e la comprovata capacità di permeazione della barriera emato-encefalica, esperimenti su cellule in vitro hanno evidenziato una discreta citotossicità dei composti comportando una evidente mortalità cellulare per apoptosi. \cite{ji_strategic_2017}
 
 \section{Conclusioni}
-In conclusione, la ricerca di una cura al morbo d'Alzheimer è un campo ancora molto aperto; le ipotesi circa le cause che comportano il presentarsi della patologia sono tante e non completamente chiare. in questo lavoro di tesi mi sono soffermato soltanto su una delle tante sfaccettature del mondo della ricerca in questo campo. I tre casi da me presentati sono un esempio di ciò che la chimica organica può offrire nel tentativo di individuare una possibile cura: usando molecole naturali come base per la sintesi di composti ad esse ispirati in grado di permeare la barriera emato-encefalica e fornire effetti antiossidanti e/o di limitare l'aggregazione proteica come nel caso di Resveratrolo e Curcumina; oppure realizzando tramite un approccio razionale alla sintesi molecole ad hoc in grado di avere gli effetti desiderati sull'organismo come i composti bipiridinici presentati.
+In conclusione, la ricerca di una cura al morbo d'Alzheimer è un campo ancora molto aperto; le ipotesi circa le cause che comportano il presentarsi della patologia sono tante e non completamente chiarite. In questo lavoro di tesi mi sono soffermato soltanto su una delle tante sfaccettature del mondo della ricerca in questo campo. I tre casi da me presentati sono un esempio di ciò che la chimica organica può offrire nel tentativo di individuare una possibile cura: usando molecole naturali come base per la sintesi di composti ad esse ispirati in grado di permeare la barriera emato-encefalica e fornire effetti antiossidanti e/o di limitare l'aggregazione proteica come nel caso di Resveratrolo e Curcumina; oppure realizzando tramite un approccio razionale alla sintesi molecole ad hoc in grado di avere gli effetti desiderati sull'organismo come i composti bipiridinici presentati.
 
 
 

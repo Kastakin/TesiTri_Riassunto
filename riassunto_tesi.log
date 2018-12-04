@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2018.10.25)  1 DEC 2018 16:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2018.10.25)  4 DEC 2018 10:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -693,20 +693,20 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (./riassunto_tesi.aux)
 \openout1 = `riassunto_tesi.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Info: Redefining \it@ocap on input line 32.
-LaTeX Info: Redefining \it@ccap on input line 32.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Info: Redefining \it@ocap on input line 48.
+LaTeX Info: Redefining \it@ccap on input line 48.
 
 
 File italian.ldf warning: 
@@ -714,7 +714,7 @@ italian.ldf    With OT1 encoding guillemets are poorly faked
 italian.ldf    Use T1 encoding
 italian.ldf    or specify a font with command \CaporaliFrom
 italian.ldf    See the documentation concerning the babel-italian typesetting 
-italian.ldf    on input line 32.
+italian.ldf    on input line 48.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -746,7 +746,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 .................................................
 . chemgreek info: "mapping-activated"
 . 
-. Activating mapping `default' on line 32.
+. Activating mapping `default' on line 48.
 .................................................
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
@@ -758,8 +758,8 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'riassunto_tesi.bbl' found.
  (./riassunto_tesi.bbl)
-Package biblatex Info: Reference section=0 on input line 32.
-Package biblatex Info: Reference segment=0 on input line 32.
+Package biblatex Info: Reference section=0 on input line 48.
+Package biblatex Info: Reference segment=0 on input line 48.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -798,7 +798,7 @@ Package biblatex Info: Reference segment=0 on input line 32.
 <immagini/APP.png, id=1, 205.0059pt x 95.3964pt>
 File: immagini/APP.png Graphic file (type png)
 <use immagini/APP.png>
-Package pdftex.def Info: immagini/APP.png  used on input line 51.
+Package pdftex.def Info: immagini/APP.png  used on input line 67.
 (pdftex.def)             Requested size: 262.61894pt x 122.20882pt.
 [1
 
@@ -806,23 +806,28 @@ Package pdftex.def Info: immagini/APP.png  used on input line 51.
 <immagini/totale_resveratrolo.png, id=14, 236.082pt x 101.178pt>
 File: immagini/totale_resveratrolo.png Graphic file (type png)
 <use immagini/totale_resveratrolo.png>
-Package pdftex.def Info: immagini/totale_resveratrolo.png  used on input line 81.
+Package pdftex.def Info: immagini/totale_resveratrolo.png  used on input line 97.
 (pdftex.def)             Requested size: 367.6649pt x 157.58228pt.
  [2]
 <immagini/generale_curcdone.png, id=19, 281.6121pt x 178.5069pt>
 File: immagini/generale_curcdone.png Graphic file (type png)
 <use immagini/generale_curcdone.png>
-Package pdftex.def Info: immagini/generale_curcdone.png  used on input line 94.
+Package pdftex.def Info: immagini/generale_curcdone.png  used on input line 110.
 (pdftex.def)             Requested size: 262.61894pt x 166.47545pt.
  [3 <./immagini/totale_resveratrolo.png> <./immagini/generale_curcdone.png>]
 <immagini/rea_g.png, id=25, 333.8874pt x 64.3203pt>
 File: immagini/rea_g.png Graphic file (type png)
 <use immagini/rea_g.png>
-Package pdftex.def Info: immagini/rea_g.png  used on input line 116.
+Package pdftex.def Info: immagini/rea_g.png  used on input line 132.
 (pdftex.def)             Requested size: 420.19191pt x 80.94878pt.
  [4 <./immagini/rea_g.png>]
-Overfull \hbox (52.26393pt too wide) in paragraph at lines 130--130
-[]\OT1/cmr/m/n/10.95 Brothers, H. M.; Gosz-ty-la, M. L.; Ro-bin-son, S. R. \OT1/cmr/m/it/10.95 Fron-tiers in Aging Neu-ro-scien-ce \OT1/cmr/bx/n/10.95 2018\OT1/cmr/m/n/10.95 , \OT1/cmr/m/it/10.95 10\OT1/cmr/m/n/10.95 , WOS:000430859600001,
+Overfull \hbox (15.538pt too wide) in paragraph at lines 146--146
+[]\OT1/cmr/m/n/10.95 Todd, S.; Barr, S.; Ro-berts, M.; Pass-mo-re, A. P. \OT1/cmr/m/it/10.95 Int. J. Ge-ria-tr. Psy-chia-tr. \OT1/cmr/bx/n/10.95 2013\OT1/cmr/m/n/10.95 , \OT1/cmr/m/it/10.95 28\OT1/cmr/m/n/10.95 , WOS:000325368600002,
+ []
+
+
+Overfull \hbox (7.66153pt too wide) in paragraph at lines 146--146
+[]\OT1/cmr/m/n/10.95 Brothers, H. M.; Gosz-ty-la, M. L.; Ro-bin-son, S. R. \OT1/cmr/m/it/10.95 Front. Aging Neu-ro-sci. \OT1/cmr/bx/n/10.95 2018\OT1/cmr/m/n/10.95 , \OT1/cmr/m/it/10.95 10\OT1/cmr/m/n/10.95 , WOS:000430859600001,
  []
 
 [5] (./riassunto_tesi.aux)
@@ -833,13 +838,13 @@ Package logreq Info: Writing requests to 'riassunto_tesi.run.xml'.
 Here is how much of TeX's memory you used:
  21283 strings out of 492641
  393482 string characters out of 6131786
- 798235 words of memory out of 5000000
+ 798258 words of memory out of 5000000
  24989 multiletter control sequences out of 15000+600000
  539611 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  50i,12n,73p,1935b,1289s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on riassunto_tesi.pdf (5 pages, 421621 bytes).
+Output written on riassunto_tesi.pdf (5 pages, 421065 bytes).
 PDF statistics:
  69 PDF objects out of 1000 (max. 8388607)
  43 compressed objects within 1 object stream

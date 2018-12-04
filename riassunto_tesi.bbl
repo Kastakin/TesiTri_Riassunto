@@ -268,6 +268,7 @@
       \field{langid}{english}
       \field{month}{9}
       \field{number}{9}
+      \field{shortjournal}{{CNS} Neurosci. Ther.}
       \field{shorttitle}{Cholinesterase targeting by polyphenols}
       \field{title}{Cholinesterase targeting by polyphenols: A therapeutic approach for the treatment of Alzheimer’s disease}
       \field{urlday}{31}
@@ -447,6 +448,7 @@
       \field{langid}{english}
       \field{month}{6}
       \field{number}{12}
+      \field{shortjournal}{Bioorgan. Med. Chem.}
       \field{title}{Design, synthesis, and evaluation of multitarget-directed ligands against Alzheimer’s disease based on the fusion of donepezil and curcumin}
       \field{urlday}{31}
       \field{urlmonth}{10}
@@ -529,6 +531,7 @@
       \field{langid}{english}
       \field{month}{6}
       \field{number}{11}
+      \field{shortjournal}{Inorg. Chem.}
       \field{title}{Strategic Design of 2,2′-Bipyridine Derivatives to Modulate Metal–Amyloid-β Aggregation}
       \field{urlday}{5}
       \field{urlmonth}{11}
