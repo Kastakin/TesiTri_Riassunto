@@ -1,11 +1,11 @@
 # Fdb version 3
-["biber riassunto_tesi"] 1543916773 "riassunto_tesi.bcf" "riassunto_tesi.bbl" "riassunto_tesi" 1543918174
+["biber riassunto_tesi"] 1543916773 "riassunto_tesi.bcf" "riassunto_tesi.bbl" "riassunto_tesi" 1544019506
   "biblio.bib" 1543916749 51236 5b933f1c84ce33a1e06d8769b4eb5cb3 ""
-  "riassunto_tesi.bcf" 1543918174 90446 7811f6489293e83a59724021725faced ""
+  "riassunto_tesi.bcf" 1544019505 90446 7811f6489293e83a59724021725faced ""
   (generated)
   "riassunto_tesi.bbl"
   "riassunto_tesi.blg"
-["pdflatex"] 1543918171 "riassunto_tesi.tex" "riassunto_tesi.pdf" "riassunto_tesi" 1543918174
+["pdflatex"] 1544019503 "riassunto_tesi.tex" "riassunto_tesi.pdf" "riassunto_tesi" 1544019506
   "/etc/texmf/web2c/texmf.cnf" 1540139146 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/symbol/psyr.tfm" 1480098689 1408 5937f58aa508ea2cea4901c07d10f5fe ""
@@ -120,14 +120,14 @@
   "immagini/generale_curcdone.png" 1543059306 212807 a1d8c88a3ed7938f4988e8af1ca3229d ""
   "immagini/rea_g.png" 1541353326 65762 b191d0638bf93b566340f6d6e6bf2006 ""
   "immagini/totale_resveratrolo.png" 1543575077 64453 74984b9f84a40e1196f747939c77e9bb ""
-  "riassunto_tesi.aux" 1543918174 4584 c54064aeb8a32860cb379e28827d2d6d ""
+  "riassunto_tesi.aux" 1544019505 4584 c54064aeb8a32860cb379e28827d2d6d ""
   "riassunto_tesi.bbl" 1543916775 31160 3403c4aee3e28b37127b5720aaf726ea "biber riassunto_tesi"
-  "riassunto_tesi.run.xml" 1543918174 2476 284edf4b68aef7c6ffc167b925b94492 ""
-  "riassunto_tesi.tex" 1543918171 14519 83a418697129e2af1f4c27793b9b22cf ""
+  "riassunto_tesi.run.xml" 1544019506 2476 284edf4b68aef7c6ffc167b925b94492 ""
+  "riassunto_tesi.tex" 1544019500 14522 c8f83111676e1ec2a6fce3ef2757a14b ""
   (generated)
   "riassunto_tesi.bcf"
+  "riassunto_tesi.aux"
   "riassunto_tesi.run.xml"
+  "riassunto_tesi.pdf"
   "riassunto_tesi.toc"
   "riassunto_tesi.log"
-  "riassunto_tesi.aux"
-  "riassunto_tesi.pdf"
