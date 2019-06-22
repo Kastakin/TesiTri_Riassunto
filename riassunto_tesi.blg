@@ -1,15 +1,15 @@
-[0] Config.pm:302> INFO - This is Biber 2.11
-[1] Config.pm:305> INFO - Logfile is 'riassunto_tesi.blg'
-[38] biber:313> INFO - === mar dic  4, 2018, 10:46:14
-[81] Biber.pm:371> INFO - Reading 'riassunto_tesi.bcf'
-[187] Biber.pm:857> INFO - Found 10 citekeys in bib section 0
-[209] Biber.pm:3976> INFO - Processing section 0
-[224] Biber.pm:4136> INFO - Looking for bibtex format file 'biblio.bib' for section 0
-[233] bibtex.pm:1489> INFO - LaTeX decoding ...
-[397] bibtex.pm:1305> INFO - Found BibTeX data source 'biblio.bib'
-[551] UCollate.pm:68> INFO - Overriding locale 'it-IT' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[551] UCollate.pm:68> INFO - Overriding locale 'it-IT' defaults 'variable = shifted' with 'variable = non-ignorable'
-[551] Biber.pm:3804> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'it-IT'
-[551] Biber.pm:3810> INFO - No sort tailoring available for locale 'it-IT'
-[570] bbl.pm:617> INFO - Writing 'riassunto_tesi.bbl' with encoding 'UTF-8'
-[584] bbl.pm:720> INFO - Output to riassunto_tesi.bbl
+[0] Config.pm:304> INFO - This is Biber 2.12
+[0] Config.pm:307> INFO - Logfile is 'riassunto_tesi.blg'
+[34] biber:315> INFO - === mar giu 18, 2019, 13:22:38
+[60] Biber.pm:371> INFO - Reading 'riassunto_tesi.bcf'
+[134] Biber.pm:889> INFO - Found 10 citekeys in bib section 0
+[154] Biber.pm:4093> INFO - Processing section 0
+[168] Biber.pm:4254> INFO - Looking for bibtex format file 'biblio.bib' for section 0
+[174] bibtex.pm:1523> INFO - LaTeX decoding ...
+[311] bibtex.pm:1340> INFO - Found BibTeX data source 'biblio.bib'
+[427] UCollate.pm:68> INFO - Overriding locale 'it-IT' defaults 'variable = shifted' with 'variable = non-ignorable'
+[427] UCollate.pm:68> INFO - Overriding locale 'it-IT' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[427] Biber.pm:3921> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'it-IT'
+[427] Biber.pm:3927> INFO - No sort tailoring available for locale 'it-IT'
+[445] bbl.pm:636> INFO - Writing 'riassunto_tesi.bbl' with encoding 'UTF-8'
+[453] bbl.pm:739> INFO - Output to riassunto_tesi.bbl

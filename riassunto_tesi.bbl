@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 2.9 $
+% $ biblatex bbl format version 3.0 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -36,20 +36,20 @@
            familyi={R\bibinitperiod},
            given={Mark},
            giveni={M\bibinitperiod}}}%
-        {{hash=07b7fd97adfc13da7c8dcf7b088a87e5}{%
+        {{hash=16b8bf28800cea548e747ff0246e1b85}{%
            family={Passmore},
            familyi={P\bibinitperiod},
            given={A.\bibnamedelimi Peter},
            giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
       }
       \strng{namehash}{506c9eb87cdc777cea728e5ba2682c51}
-      \strng{fullhash}{7022acbd6d52323b091802a2f48a7386}
-      \strng{bibnamehash}{7022acbd6d52323b091802a2f48a7386}
-      \strng{authorbibnamehash}{7022acbd6d52323b091802a2f48a7386}
+      \strng{fullhash}{0e0b86f27b1a8fe34b6420a862483291}
+      \strng{bibnamehash}{0e0b86f27b1a8fe34b6420a862483291}
+      \strng{authorbibnamehash}{0e0b86f27b1a8fe34b6420a862483291}
       \strng{authornamehash}{506c9eb87cdc777cea728e5ba2682c51}
-      \strng{authorfullhash}{7022acbd6d52323b091802a2f48a7386}
+      \strng{authorfullhash}{0e0b86f27b1a8fe34b6420a862483291}
       \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{{ObjectiveDementia} is an important cause of mortality and, with the ageing population and increasing prevalence of dementia, reliable data on prognosis and survival will be of interest to patients and caregivers as well as providers and commissioners of health and social care. A review of the literature was undertaken to determine the rates of survival in dementia and Alzheimer's disease ({AD}) and to identify factors that are or are not predictive of mortality in dementia and {AD}. {MethodsRelevant} articles on mortality in dementia were identified following a search of several electronic databases from 1990 to September 2012. Inclusion criteria were reports on prospective community or clinic based cohorts published in English since 1990, to reflect more recent recognition of possible predictors. {ResultsMedian} survival time from age of onset of dementia ranges from 3.3 to 11.7years, with most studies in the 7 to 10-year period. Median survival time from age of disease diagnosis ranges from 3.2 to 6.6years for dementia or {AD} cohorts as a whole. Age was consistently reported as a predictor of mortality, with male gender a less consistent predictor. Increased disease severity and functional impairment were often associated with mortality. {ConclusionsSubstantial} heterogeneity in the design of included studies limits the ability to prognosticate for individual patients. However, it is clear that dementia and {AD} are associated with significant mortality. Reasons for the increased mortality are not established. Copyright (c) 2013 John Wiley \& Sons, Ltd.}
@@ -73,7 +73,7 @@
     \endentry
     \entry{noauthor_world_2018}{online}{}
       \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labeltitlesource}{title}
       \field{day}{20}
       \field{langid}{english}
@@ -102,20 +102,20 @@
            familyi={G\bibinitperiod},
            given={Michel},
            giveni={M\bibinitperiod}}}%
-        {{hash=9dc94771899bc5df611e7c991dd361b3}{%
+        {{hash=e89aecb8c2482ed8f2524b44aa1235ef}{%
            family={Spillantini},
            familyi={S\bibinitperiod},
            given={Maria\bibnamedelima Grazia},
            giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
       }
-      \strng{namehash}{32f5d98bee713c18fa0b5ee38fd8c5bd}
-      \strng{fullhash}{32f5d98bee713c18fa0b5ee38fd8c5bd}
-      \strng{bibnamehash}{32f5d98bee713c18fa0b5ee38fd8c5bd}
-      \strng{authorbibnamehash}{32f5d98bee713c18fa0b5ee38fd8c5bd}
-      \strng{authornamehash}{32f5d98bee713c18fa0b5ee38fd8c5bd}
-      \strng{authorfullhash}{32f5d98bee713c18fa0b5ee38fd8c5bd}
+      \strng{namehash}{f988c16a46cccc6e5705074c443e786a}
+      \strng{fullhash}{f988c16a46cccc6e5705074c443e786a}
+      \strng{bibnamehash}{f988c16a46cccc6e5705074c443e786a}
+      \strng{authorbibnamehash}{f988c16a46cccc6e5705074c443e786a}
+      \strng{authornamehash}{f988c16a46cccc6e5705074c443e786a}
+      \strng{authorfullhash}{f988c16a46cccc6e5705074c443e786a}
       \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{day}{3}
@@ -141,30 +141,30 @@
     \endentry
     \entry{brothers_physiological_2018}{article}{}
       \name{author}{3}{}{%
-        {{hash=01233ec303a5522d5c2f3d7568e419cc}{%
+        {{hash=9d8e84194917980d2fc7f1eb75eb4c04}{%
            family={Brothers},
            familyi={B\bibinitperiod},
            given={Holly\bibnamedelima M.},
            giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=222915c8e87990b8ee8a4b0ee4879cf4}{%
+        {{hash=241792c14936a4f9b010f8a485c6abcb}{%
            family={Gosztyla},
            familyi={G\bibinitperiod},
            given={Maya\bibnamedelima L.},
            giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-        {{hash=ef0c05f9af1fb772c5e9cc739fa64d53}{%
+        {{hash=7cc4971bfc804a581c1d24475deebc6f}{%
            family={Robinson},
            familyi={R\bibinitperiod},
            given={Stephen\bibnamedelima R.},
            giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
       }
-      \strng{namehash}{078fef04181566d65b77b81331c1fabd}
-      \strng{fullhash}{161e07a4d4841f4c6c3e91f032807642}
-      \strng{bibnamehash}{161e07a4d4841f4c6c3e91f032807642}
-      \strng{authorbibnamehash}{161e07a4d4841f4c6c3e91f032807642}
-      \strng{authornamehash}{078fef04181566d65b77b81331c1fabd}
-      \strng{authorfullhash}{161e07a4d4841f4c6c3e91f032807642}
+      \strng{namehash}{072c71b563b83560a024ffd1724cdf75}
+      \strng{fullhash}{b5b9581c074924bdfe3aabd854ca2037}
+      \strng{bibnamehash}{b5b9581c074924bdfe3aabd854ca2037}
+      \strng{authorbibnamehash}{b5b9581c074924bdfe3aabd854ca2037}
+      \strng{authornamehash}{072c71b563b83560a024ffd1724cdf75}
+      \strng{authorfullhash}{b5b9581c074924bdfe3aabd854ca2037}
       \field{sortinit}{4}
-      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Amyloid-beta (A beta) is best known as the misfolded peptide that is involved in the pathogenesis of Alzheimer's disease ({AD}), and it is currently the primary therapeutic target in attempts to arrest the course of this disease. This notoriety has overshadowed evidence that A beta serves several important physiological functions. A beta is present throughout the lifespan, it has been found in all vertebrates examined thus far, and its molecular sequence shows a high degree of conservation. These features are typical of a factor that contributes significantly to biological fitness, and this suggestion has been supported by evidence of functions that are beneficial for the brain. The putative roles of A beta include protecting the body from infections, repairing leaks in the blood-brain barrier, promoting recovery from injury, and regulating synaptic function. Evidence for these beneficial roles comes from in vitro and in vivo studies, which have shown that the cellular production of A beta rapidly increases in response to a physiological challenge and often diminishes upon recovery. These roles are further supported by the adverse outcomes of clinical trials that have attempted to deplete A beta in order to treat {AD}. We suggest that anti-A beta therapies will produce fewer adverse effects if the known triggers of A beta deposition (e.g., pathogens, hypertension, and diabetes) are addressed first.}
@@ -211,7 +211,7 @@
       \strng{authornamehash}{8a6d5e7123361554d9533a8f3d16da72}
       \strng{authorfullhash}{0105d6c6fe0c15d2fd64ec6a37fda991}
       \field{sortinit}{5}
-      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Alzheimer's disease acknowledged as progressive multifarious neurodegenerative disorder, is the leading cause of dementia in late adult life. Pathologically it is characterized by intracellular nenrofibrillary tangles and extracellular amyloidal protein deposits contributing to senile plaques. Over the last two decades, advances in the field of pathogenesis have inspired the researchers for the investigation of novel pharmacological therapeutics centered more towards the pathophysiological events of the disease. Currently available treatments i.e. acetylcholinesterase inhibitors (rivastigmine, galantamine, donepezil) and N-methyl D-aspartate receptor antagonist (memantine) contribute minimal impact on the disease and target late aspects of the disease. These drugs decelerate the progression of the disease, provide symptomatic relief but fail to achieve a definite cure. While the neuropathological features of Alzheimer's disease are recognized but the intricacies of the mechanism have not been clearly defined. This lack of understanding regarding the pathogenic process may be the likely reason for the non-availability of effective treatment which can prevent onset and progression of the disease. Owing to the important progress in the field of pathophysiology in the last couple of years, new therapeutic targets are available that should render the underlying disease process to be tackled directly. In this review, authors will discusses the different aspects of pathophysiological mechanisms behind Alzheimer's disease and its management through conventional drug therapy, including modern investigational therapeutic strategies, recently completed and ongoing. (C) 2014 Institute of Pharmacology, Polish Academy of Sciences. Published by Elsevier Urban \& Partner Sp. z o.o. All rights reserved.}
@@ -235,12 +235,12 @@
     \endentry
     \entry{jabir_cholinesterase_2018}{article}{}
       \name{author}{3}{}{%
-        {{hash=3df059cb0680da690d775d1c4fd434d4}{%
+        {{hash=b04bacc28fb17d83f830e0d0ac96682c}{%
            family={Jabir},
            familyi={J\bibinitperiod},
            given={Nasimudeen\bibnamedelima R.},
            giveni={N\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
-        {{hash=7313c676c3caa34a0ec3d140292a65ee}{%
+        {{hash=15635ae01b0e90a72976763f690b8da7}{%
            family={Khan},
            familyi={K\bibinitperiod},
            given={Fayaz\bibnamedelima Rahman},
@@ -251,14 +251,14 @@
            given={Shams},
            giveni={S\bibinitperiod}}}%
       }
-      \strng{namehash}{8d147976aaa20aed1cd39d5b95326a3e}
-      \strng{fullhash}{8d1063ca9dade020cdb529f8cf04bfae}
-      \strng{bibnamehash}{8d1063ca9dade020cdb529f8cf04bfae}
-      \strng{authorbibnamehash}{8d1063ca9dade020cdb529f8cf04bfae}
-      \strng{authornamehash}{8d147976aaa20aed1cd39d5b95326a3e}
-      \strng{authorfullhash}{8d1063ca9dade020cdb529f8cf04bfae}
+      \strng{namehash}{19a8c80d3c84047ca7b50970acf2978b}
+      \strng{fullhash}{8fdda6b59947e5a5d4819add368aab89}
+      \strng{bibnamehash}{8fdda6b59947e5a5d4819add368aab89}
+      \strng{authorbibnamehash}{8fdda6b59947e5a5d4819add368aab89}
+      \strng{authornamehash}{19a8c80d3c84047ca7b50970acf2978b}
+      \strng{authorfullhash}{8fdda6b59947e5a5d4819add368aab89}
       \field{sortinit}{6}
-      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Alzheimer’s disease ({AD}) is a progressive irreversible neurodegenerative disorder characterized by excessive deposition of β-amyloid (Aβ) oligomers, and neurofibrillary tangles ({NFTs}), comprising of hyperphosphorylated tau proteins. The cholinergic system has been suggested as the earliest and most affected molecular mechanism that describes {AD} pathophysiology. Moreover, cholinesterase inhibitors ({ChEIs}) are the potential class of drugs that can amplify cholinergic activity to improve cognition and global performance and reduce psychiatric and behavioral disturbances. Approximately, 60\%-80\% of all cases of dementia in the world are patients with {AD}. In view of the continuous rise of this disease especially in the aged population, there is a dire need to come up with a novel compound and/or mixture that could work against this devastating disease. In this regard, the best is to rely on natural compounds rather than synthetic ones, because natural compounds are easily available, cost-effective, and comparatively less toxic. To serve this purpose, lately, scientific community has started exploring the possibility of using different polyphenols either solitary or in combination that can serve as therapeutics against {AD}. In the current article, we have summarized the role of various polyphenols, namely quercetin, resveratrol, curcumin, gallocatechins, cinnamic acid, caffeine, and caffeic acid as an inhibitor of cholinesterase for the treatment of {AD}. We have also tried to uncover the mechanistic insight on the action of these polyphenols against {AD} pathogenicity.}
@@ -296,7 +296,7 @@
     \endentry
     \entry{martinez_extremely_2015}{article}{}
       \name{author}{4}{}{%
-        {{hash=03c62d58c922e0ef434b6e2bfd35b858}{%
+        {{hash=6e3af0b1c74b7e3a4b75baba374b3cf2}{%
            family={Martínez},
            familyi={M\bibinitperiod},
            given={Alejandro\bibnamedelima V.},
@@ -306,25 +306,25 @@
            familyi={L\bibinithyphendelim D\bibinitperiod},
            given={Alejandro},
            giveni={A\bibinitperiod}}}%
-        {{hash=e4d41a40de5f5f8db25c674f9e23ce22}{%
+        {{hash=b96de21ced0f76a65f2ec5937a30a9ad}{%
            family={García},
            familyi={G\bibinitperiod},
            given={José\bibnamedelima I.},
            giveni={J\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
-        {{hash=0cba1067d281c64681a4d5f8f22c42d9}{%
+        {{hash=715f375c20abb6a4bcc5c30ef30bb3b4}{%
            family={Mayoral},
            familyi={M\bibinitperiod},
            given={José\bibnamedelima A.},
            giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
       }
-      \strng{namehash}{29b1c83d05bd848bea3b4a455dde29d2}
-      \strng{fullhash}{3cfe7f705785115a91631a6e32a2f516}
-      \strng{bibnamehash}{3cfe7f705785115a91631a6e32a2f516}
-      \strng{authorbibnamehash}{3cfe7f705785115a91631a6e32a2f516}
-      \strng{authornamehash}{29b1c83d05bd848bea3b4a455dde29d2}
-      \strng{authorfullhash}{3cfe7f705785115a91631a6e32a2f516}
+      \strng{namehash}{4e869b6f008cb189d6859d4e282806a9}
+      \strng{fullhash}{d39e4c3704c7e12e6c2405172cc371dd}
+      \strng{bibnamehash}{d39e4c3704c7e12e6c2405172cc371dd}
+      \strng{authorbibnamehash}{d39e4c3704c7e12e6c2405172cc371dd}
+      \strng{authornamehash}{4e869b6f008cb189d6859d4e282806a9}
+      \strng{authorfullhash}{d39e4c3704c7e12e6c2405172cc371dd}
       \field{sortinit}{7}
-      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Palladium nanoparticles supported on {LAPONITE}®, a synthetic clay, are shown to constitute a highly robust and stable catalytic system for Heck–Mizoroki reactions carried out under solventless conditions. Both the preparation and the use of the catalyst are straightforward, allowing easy separation of the reaction products in pure form. In the case of the reaction between butyl acrylate and iodobenzene, up to 50 catalyst cycles can be performed before observing a noticeable decrease in activity. After reactivation of the catalyst by calcination, it can be further used for at least an additional 25 reactions. The stability of the catalyst seems to be related to the electronic density of the reacting alkene, as illustrated by the results obtained using the same catalyst with other alkenes.}
@@ -360,24 +360,24 @@
     \endentry
     \entry{alejandro_v._martinez_expedient_2017}{article}{}
       \name{author}{3}{}{%
-        {{hash=307a8a2891864ea3c655a485326adb91}{%
+        {{hash=d77d9353fbd745efbc37078870af074d}{%
            family={{Alejandro V. Martínez}},
            familyi={A\bibinitperiod}}}%
-        {{hash=315e7baaf14be70fa820936a8d7488eb}{%
+        {{hash=673890c8ac6ffba528bf73c59112f0be}{%
            family={{José A. Mayoral}},
            familyi={J\bibinitperiod}}}%
-        {{hash=a510cea1518fad12e043d2a4a404fcc0}{%
+        {{hash=f3d89dbcb6a88d8baa87b0b2750fc236}{%
            family={{José I. García}},
            familyi={J\bibinitperiod}}}%
       }
-      \strng{namehash}{62c78733928a2077cb2d24fccdf6d313}
-      \strng{fullhash}{88ccdf1e3acab67e8a6ebb88756e36e2}
-      \strng{bibnamehash}{88ccdf1e3acab67e8a6ebb88756e36e2}
-      \strng{authorbibnamehash}{88ccdf1e3acab67e8a6ebb88756e36e2}
-      \strng{authornamehash}{62c78733928a2077cb2d24fccdf6d313}
-      \strng{authorfullhash}{88ccdf1e3acab67e8a6ebb88756e36e2}
+      \strng{namehash}{992f618a11c819fbe3c477efa8ee12b2}
+      \strng{fullhash}{74856996cf4445dfbe980312fcfe66b4}
+      \strng{bibnamehash}{74856996cf4445dfbe980312fcfe66b4}
+      \strng{authorbibnamehash}{74856996cf4445dfbe980312fcfe66b4}
+      \strng{authornamehash}{992f618a11c819fbe3c477efa8ee12b2}
+      \strng{authorfullhash}{74856996cf4445dfbe980312fcfe66b4}
       \field{sortinit}{8}
-      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{sortinithash}{1b24cab5087933ef0826a7cd3b99e994}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{A straightforward two-step synthesis of resveratrol is described, with total isolated yields in the range of 75–80\%. The key synthetic step, a Heck–Mi…}
@@ -412,33 +412,33 @@
     \endentry
     \entry{jun_yan_design_2017}{article}{}
       \name{author}{6}{}{%
-        {{hash=1f15a7f17ca3026ca6387071c38a651f}{%
+        {{hash=028261265cd9765826f24325348e669f}{%
            family={{Jun Yan}},
            familyi={J\bibinitperiod}}}%
-        {{hash=c5200146fa7fd74b5fcc6925b79e430d}{%
+        {{hash=94645e2f66b83ea794686349abee61cd}{%
            family={{Jinhui Hu}},
            familyi={J\bibinitperiod}}}%
-        {{hash=2f7a2cf67c5a11d6c56e98a69945ee94}{%
+        {{hash=ab666feebb10d84dfb551d0b5136fbae}{%
            family={{Anqiu Liu}},
            familyi={A\bibinitperiod}}}%
-        {{hash=02f43ee21c848bce66ed0792b80eec46}{%
+        {{hash=236075a08400282563cffad303a0101a}{%
            family={{Lin He}},
            familyi={L\bibinitperiod}}}%
-        {{hash=ac70efea6c170b52086ecb7ca1eae30d}{%
+        {{hash=78e811f439d2ccf3af462879b3fbd0f1}{%
            family={{Xingshu Li}},
            familyi={X\bibinitperiod}}}%
-        {{hash=37637e533b17f0eb91cdcd5f0092162a}{%
+        {{hash=9ef48be7d257f9e9719d2834c6f87c82}{%
            family={{Hui Wei}},
            familyi={H\bibinitperiod}}}%
       }
-      \strng{namehash}{1bc2996735285002e3ba69251bc438f8}
-      \strng{fullhash}{d4851c274c9849abcb2d03565be73c46}
-      \strng{bibnamehash}{d4851c274c9849abcb2d03565be73c46}
-      \strng{authorbibnamehash}{d4851c274c9849abcb2d03565be73c46}
-      \strng{authornamehash}{1bc2996735285002e3ba69251bc438f8}
-      \strng{authorfullhash}{d4851c274c9849abcb2d03565be73c46}
+      \strng{namehash}{3a13ef90902d33b3aec83b87f9f09089}
+      \strng{fullhash}{1c12d58ac328fd6da443aaf556f70180}
+      \strng{bibnamehash}{1c12d58ac328fd6da443aaf556f70180}
+      \strng{authorbibnamehash}{1c12d58ac328fd6da443aaf556f70180}
+      \strng{authornamehash}{3a13ef90902d33b3aec83b87f9f09089}
+      \strng{authorfullhash}{1c12d58ac328fd6da443aaf556f70180}
       \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{By fusing donepezil and curcumin, a novel series of compounds were obtained as multitarget-directed ligands against Alzheimer’s disease. Among them, c…}
@@ -479,7 +479,7 @@
            familyi={J\bibinitperiod},
            given={Yonghwan},
            giveni={Y\bibinitperiod}}}%
-        {{hash=e5b326c45d7fdb6682ced098870c94be}{%
+        {{hash=9ba5003e524b0694991c7c944eb76cb1}{%
            family={Lee},
            familyi={L\bibinitperiod},
            given={Hyuck\bibnamedelima Jin},
@@ -494,7 +494,7 @@
            familyi={N\bibinitperiod},
            given={Geewoo},
            giveni={G\bibinitperiod}}}%
-        {{hash=89649b71a0b281e4412f14757f36f5cd}{%
+        {{hash=8366c2492b126eea4688c47eeac5f4f9}{%
            family={Lee},
            familyi={L\bibinitperiod},
            given={Shin\bibnamedelimb Jung\bibnamedelima C.},
@@ -509,20 +509,20 @@
            familyi={P\bibinitperiod},
            given={Cheol-Min},
            giveni={C\bibinithyphendelim M\bibinitperiod}}}%
-        {{hash=01e12d50e83d4fb5d7fb8bd53395f0df}{%
+        {{hash=03977acc3c0aed542612bbb4518c0335}{%
            family={Lim},
            familyi={L\bibinitperiod},
            given={Mi\bibnamedelima Hee},
            giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
       }
       \strng{namehash}{6bfe1c19e05f1511cc4a708541f35d28}
-      \strng{fullhash}{7b51a156f81f21b902b8b9cb235a31af}
-      \strng{bibnamehash}{7b51a156f81f21b902b8b9cb235a31af}
-      \strng{authorbibnamehash}{7b51a156f81f21b902b8b9cb235a31af}
+      \strng{fullhash}{85e56f9191c52e9a059fd24d762b191b}
+      \strng{bibnamehash}{85e56f9191c52e9a059fd24d762b191b}
+      \strng{authorbibnamehash}{85e56f9191c52e9a059fd24d762b191b}
       \strng{authornamehash}{6bfe1c19e05f1511cc4a708541f35d28}
-      \strng{authorfullhash}{7b51a156f81f21b902b8b9cb235a31af}
+      \strng{authorfullhash}{85e56f9191c52e9a059fd24d762b191b}
       \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{day}{5}
